@@ -1,6 +1,6 @@
 # uster
 
-Para el desarrollo de la aplicación se ha utilizado:
+Para el desarrollo de la aplicación se ha utilizado: \r
 Sistema operativo: Windows 10 
 Programas usados: Spring Tool Suite 4, MySQL Workbench 8.0 CE, XAMPP 7.3.9
 Versión de Java: Java 8
