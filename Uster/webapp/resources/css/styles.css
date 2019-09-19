@@ -1,0 +1,96 @@
+table {
+	background-color: white;
+	text-align: left;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th, td {
+	font-size: 18px;
+	padding: 20px;
+	text-align: center;
+}
+
+thead {
+	background-color: #246355;
+	border-bottom: solid 5px #0F362D;
+	color: white;
+}
+
+tr:nth-child(even) {
+	background-color: #ddd;
+}
+
+tr:hover td {
+	background-color: #369681;
+	color: white;
+}
+
+.button_add {
+	text-decoration: none;
+	padding: 10px;
+	font-weight: 600;
+	font-size: 20px;
+	color: #ffffff;
+	background-color: green;
+	border-radius: 6px;
+	border: 2px solid green;
+}
+
+.button_add:hover {
+	color: white;
+	background-color: black;
+}
+
+.button_edit {
+	text-decoration: none;
+	padding: 10px;
+	font-weight: 600;
+	font-size: 20px;
+	color: #ffffff;
+	background-color: #1883ba;
+	border-radius: 6px;
+	border: 2px solid #0016b0;
+}
+
+.button_edit:hover {
+	color: white;
+	background-color: black;
+}
+
+.button_delete {
+	text-decoration: none;
+	padding: 10px;
+	font-weight: 600;
+	font-size: 20px;
+	color: #ffffff;
+	background-color: red;
+	border-radius: 6px;
+	border: 2px solid red;
+}
+
+.button_delete:hover {
+	color: white;
+	background-color: black;
+}
+
+.button_page {
+	text-align:center;
+	margin: 20px 0 20px;
+}
+
+.box {
+	font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+	color: #ffffff;
+	font-size: 18px;
+	font-weight: 400;
+	text-align: center;
+	background: #889ccf;
+	margin: 0 0 25px;
+	overflow: hidden;
+	padding: 20px;
+	border-radius: 35px 0px 35px 0px;
+	-moz-border-radius: 35px 0px 35px 0px;
+	-webkit-border-radius: 35px 0px 35px 0px;
+	border: 2px solid #5878ca;
+}
